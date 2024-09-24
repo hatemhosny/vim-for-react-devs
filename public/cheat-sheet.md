@@ -66,3 +66,7 @@ This mini-course is designed to help **React developers** learn **Vim** commands
 - `ZZ`: Save & Close Vim
 - `u`: Undo
 - `Ctrl+r`: Redo
+
+<script>
+  document.body.classList.add('markdown-body');
+</script>
