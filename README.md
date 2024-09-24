@@ -6,6 +6,8 @@ This mini-course is designed to help **React developers** learn **Vim** commands
 
 **https://vimforreactdevs.com**
 
+Try it in the browser: [Open in LiveCodes](https://livecodes.io/?editorMode=vim&x=https://github.com/hatemhosny/vim-for-react-devs/tree/main/public)
+
 ## Prerequisites
 
 Before starting this course, you should have neovim installed and configured:
